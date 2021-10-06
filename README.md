@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This calculator allows you to do simple operations (+, -, *, /) and delete the value displayed.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This calculator allows you to do simple operations (+, -, *, /) and also deleting the value displayed.
 
 ## Available Scripts
 
